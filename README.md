@@ -26,4 +26,4 @@ This repository provides an implementation of the Sleeping Barber problem in C p
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Copyright
-copyright © Muhammad Muhib Siddiqui 2024
+Copyright © Muhammad Muhib Siddiqui 2024
